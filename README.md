@@ -16,7 +16,7 @@
 - 本地安装了 curl，如果没安装，可以参考这里进行安装 ：https://everything.curl.dev/get
 - 本地安装了 jq，  如果没安装，可以参考这里进行安装： https://jqlang.github.io/jq/download/
 
-### 运用
+### 运行
 
 脚本直接拿到你本地执行就可以了
 
